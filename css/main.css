@@ -24,3 +24,12 @@ footer p{
 img[src$="jpg"]{
     width: 200px
 }
+
+/* pseudo classes can be used to target the states of elements... for example  the "visited" state */
+a:visited{
+    color: darkorchid;
+}
+/* while only lnks have a vistited state and element can have a hover state */
+a:hover{
+    color: darksalmon;
+}
