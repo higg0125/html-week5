@@ -11,5 +11,5 @@ p, h2{
 /* target specifically, paragraph inside the footer */
 footer p{
     color: turquoise;
-    font-size: 16px;
+    font-size: 20px;
 }
