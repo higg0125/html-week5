@@ -1,0 +1,4 @@
+/* If we want to apply the background colour to the whole page (body tag) */
+body{
+    background-color: green;
+}
