@@ -20,3 +20,7 @@ footer p{
     font-weight: bold;
     font-size: 35px;
 }
+/* use an attrubute selector to target only .jpg images $ means ends with so we are looking for img tags whose sorce ends wit jpg */
+img[src$="jpg"]{
+    width: 200px
+}
