@@ -16,3 +16,7 @@ footer p{
 .larger{
    font-size: 30px; 
 }
+#play{
+    font-weight: bold;
+    font-size: 35px;
+}
