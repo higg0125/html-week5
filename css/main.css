@@ -2,3 +2,7 @@
 body{
     background-color: green;
 }
+/* Target all paragraph to be a specific font colour */
+p, h2{
+    color: whitesmoke;
+}
